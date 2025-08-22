@@ -1,0 +1,28 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+#topo{
+    width: 980px;
+    height: 100px;
+    background-color: rgb(227, 34, 82);
+    margin: auto;
+}
+#logo{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 0, 149);
+    float: left;
+}
+#menu{
+    width: 780px;
+    height: 100px;
+    background-color: lightblue;
+    float: right;
+}
+#banner{
+    width: 780px;
+    height: 400px;
+    background-color: beige;
+    margin: auto;
+}
