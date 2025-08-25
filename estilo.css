@@ -5,24 +5,24 @@
 #topo{
     width: 980px;
     height: 100px;
-    background-color: rgb(227, 34, 82);
+    background-color: rgb(119, 17, 88);
     margin: auto;
 }
 #logo{
     width: 200px;
     height: 100px;
-    background-color: rgb(255, 0, 149);
+    background-color: rgb(155, 21, 25);
     float: left;
 }
 #menu{
     width: 780px;
     height: 100px;
-    background-color: lightblue;
+    background-color: rgb(4, 58, 76);
     float: right;
 }
 #banner{
-    width: 780px;
+    width: 700px;
     height: 400px;
-    background-color: beige;
+    background-color: rgb(5, 75, 119);
     margin: auto;
 }

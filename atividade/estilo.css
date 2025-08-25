@@ -1,0 +1,22 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+}
+#topoContainer{
+    width: 980px;
+    height: 200px;
+    margin: auto;
+    background-color: brown;
+}
+#logo{
+    width:  200px;
+    height: 200px;
+    float: left;
+    background-color: rgb(121, 34, 76);
+    }
+    #menu{
+        width: 780px;
+        height: 200px;
+        float: right;
+        background-color: rgb(108, 15, 96);
+    }
